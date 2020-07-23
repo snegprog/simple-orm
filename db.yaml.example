@@ -1,0 +1,8 @@
+databases:
+  default:
+    host: 'localhost'
+    db: 'db'
+    port: 3306
+    user: 'user'
+    password: 'password'
+    size: 64
